@@ -16,3 +16,6 @@ Tecnologia uzada.
 
 
 <img src="https://github.com/135791maria/projeto-randou/blob/main/random.png.png?raw=true">
+<br>
+
+<img src="https://github.com/135791maria/projeto-randou/blob/main/random-2.png.png?raw=true">
