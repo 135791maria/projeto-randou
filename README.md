@@ -13,3 +13,6 @@ Tecnologia uzada.
 - CSS
   <br>
 - JAVASCRIPT
+
+
+<img src="https://github.com/135791maria/projeto-randou/blob/main/random.png.png?raw=true">
